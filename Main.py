@@ -37,3 +37,4 @@ def get_age(message):
 
 
 bot.polling(none_stop=True, interval=0)
+#привет
